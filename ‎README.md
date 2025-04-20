@@ -24,12 +24,13 @@
         <li>⚙️ Express backend with <strong>sharp</strong>, <strong>pdfkit</strong>, and <strong>ffmpeg</strong></li>
         <li>📦 Modular codebase for scalability</li>
       </ul>
+       <h2>🖥️ Tech Stack</h2>
+      <p><strong>Frontend (React + Vite):</strong> React.js, Tailwind CSS, Axios, Vite</p>
+      <p><strong>Backend (Node.js + Express):</strong> Express.js, multer, file-type, sharp, pdfkit, fluent-ffmpeg, cors, fs</p>
     </section>
 
     <section>
-      <h2>🖥️ Tech Stack</h2>
-      <p><strong>Frontend (React + Vite):</strong> React.js, Tailwind CSS, Axios, Vite</p>
-      <p><strong>Backend (Node.js + Express):</strong> Express.js, multer, file-type, sharp, pdfkit, fluent-ffmpeg, cors, fs</p>
+     
     </section>
 
     <section>
