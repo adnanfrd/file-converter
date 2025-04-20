@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>⚡ File Converter App</title>
 </head>
 <body>
   <header>
@@ -27,30 +26,19 @@
        <h2>🖥️ Tech Stack</h2>
       <p><strong>Frontend (React + Vite):</strong> React.js, Tailwind CSS, Axios, Vite</p>
       <p><strong>Backend (Node.js + Express):</strong> Express.js, multer, file-type, sharp, pdfkit, fluent-ffmpeg, cors, fs</p>
-    </section>
-
-    <section>
-     
-    </section>
-
-    <section>
-      <h2>🚀 Getting Started</h2>
+       <h2>🚀 Getting Started</h2>
       <div class="highlight">
         <p><strong>1️⃣ Backend Setup:</strong></p>
         <p>Go to the backend folder and run:</p>
         <p><strong>npm install</strong> then <strong>npm start</strong></p>
         <p>Server runs at: <strong>http://localhost:4000</strong></p>
-
-        <br/>
+          <br/>
 
         <p><strong>2️⃣ Frontend Setup:</strong></p>
         <p>Go to the frontend folder and run:</p>
         <p><strong>npm install</strong> then <strong>npm run dev</strong></p>
         <p>React app runs at: <strong>http://localhost:5173</strong></p>
       </div>
-    </section>
-
-    <section>
       <h2>🛠 Usage</h2>
       <ul>
         <li>Upload or drag-and-drop a file</li>
@@ -58,9 +46,6 @@
         <li>Click "Convert"</li>
         <li>Download the processed file 🎉</li>
       </ul>
-    </section>
-
-    <section>
       <h2>📁 Folder Structure</h2>
       <div class="folder-structure">
 file-converter/
@@ -80,9 +65,6 @@ file-converter/
 │   └── public/
 └── README.md
       </div>
-    </section>
-
-    <section>
       <h2>💡 Future Improvements</h2>
       <ul>
         <li>✅ Add support for DOCX, XLSX formats</li>
@@ -90,24 +72,19 @@ file-converter/
         <li>🧾 Batch file conversion support</li>
         <li>☁️ Cloud storage with S3 or Firebase</li>
       </ul>
-    </section>
 
-    <section>
       <h2>🤝 Contributing</h2>
       <p>Contributions are welcome! Fork the repo and submit a pull request 🚀</p>
-    </section>
 
-    <section>
       <h2>📄 License</h2>
       <p>This project is licensed under the MIT License.</p>
     </section>
 
-    <section>
       <h2>📬 Contact</h2>
       <p>Made with ❤️ by <strong>Muhammad Adnan Fareed</strong></p>
       <p>Email: <a href="mailto:adnanfrd.work@gmail.com">adnanfrd.work@gmail.com</a></p>
-    </section>
   </div>
+    </section>
 
   <footer class="footer">
     &copy; 2025 File Converter App · All rights reserved.
